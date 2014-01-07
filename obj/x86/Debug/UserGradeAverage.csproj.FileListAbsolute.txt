@@ -1,0 +1,12 @@
+c:\users\rlanoux\documents\visual studio 2010\Projects\UserGradeAverage\UserGradeAverage\bin\Debug\UserGradeAverage.exe
+c:\users\rlanoux\documents\visual studio 2010\Projects\UserGradeAverage\UserGradeAverage\bin\Debug\UserGradeAverage.pdb
+c:\users\rlanoux\documents\visual studio 2010\Projects\UserGradeAverage\UserGradeAverage\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rlanoux\documents\visual studio 2010\Projects\UserGradeAverage\UserGradeAverage\obj\x86\Debug\UserGradeAverage.exe
+c:\users\rlanoux\documents\visual studio 2010\Projects\UserGradeAverage\UserGradeAverage\obj\x86\Debug\UserGradeAverage.pdb
+H:\Programming\Programs\UserGradeAverage\UserGradeAverage\obj\x86\Debug\UserGradeAverage.exe
+H:\Programming\Programs\UserGradeAverage\UserGradeAverage\obj\x86\Debug\UserGradeAverage.pdb
+H:\Programming\Programs\UserGradeAverage\UserGradeAverage\bin\Debug\UserGradeAverage.exe
+H:\Programming\Programs\UserGradeAverage\UserGradeAverage\bin\Debug\UserGradeAverage.pdb
+H:\Programming\Programs\UserGradeAverage\UserGradeAverage\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\C# Programs\TestAverages\UserGradeAverage\UserGradeAverage\obj\x86\Debug\UserGradeAverage.exe
+H:\Programming\C# Programs\TestAverages\UserGradeAverage\UserGradeAverage\obj\x86\Debug\UserGradeAverage.pdb
